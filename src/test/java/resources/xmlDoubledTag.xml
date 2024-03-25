@@ -1,0 +1,11 @@
+<TransactionList>
+    <Transaction>
+        <Description>Cash withdrawal</Description>
+        <Direction>Debit</Direction>
+        <Direction>Doubled</Direction>
+        <Amount>
+            <Value>150</Value>
+            <Currency>JOD</Currency>
+        </Amount>
+    </Transaction>
+</TransactionList>

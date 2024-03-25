@@ -23,4 +23,27 @@
             <Currency>JOD</Currency>
         </Amount>
     </Transaction>
+
+    <Transaction>
+
+        <Direction>Debit</Direction>
+        <Description>Bill Payment</Description>
+        <Amount>
+
+            <Currency>JOD</Currency>
+            <Value>20</Value>
+        </Amount>
+    </Transaction>
+
+    <Transaction>
+
+        <Direction>Debit</Direction>
+
+        <Amount>
+
+            <Currency>JOD</Currency>
+            <Value>20</Value>
+        </Amount>
+    </Transaction>
+
 </TransactionList>
